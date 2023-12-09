@@ -1,0 +1,10 @@
+Tere tulemast Unitysse koos Gitiga!
+
+Git on tasuta ja avatud lähtekoodiga  versioonihaldussüsteem, mis on loodud kiire ja tõhusaks haldamiseks kõike alates väikestest kuni väga suurte projektideni.
+
+
+Piret:
+
+Üritan mõista ja aru saada mida teha ja kuidas.
+
+28.10.2023
